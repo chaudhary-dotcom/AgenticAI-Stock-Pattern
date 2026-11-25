@@ -1,0 +1,36 @@
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# IDE and editor
+.vscode/
+.idea/
+
+# Generated data
+data/raw/
+data/processed/
+data/uploads/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local project inspection files
+project_structure.txt

@@ -1,0 +1,32 @@
+
+# Data processing
+pandas
+numpy
+scipy
+scikit-learn
+openpyxl
+
+# Stock market data
+yfinance
+
+# Visualization and UI
+plotly
+streamlit
+
+# Agent framework
+langgraph
+
+# Historical pattern matching
+fastdtw
+
+# Local and cloud AI providers
+openai
+
+# Configuration
+python-dotenv
+pydantic
+pydantic-settings
+
+# Testing and graph visualization
+pytest
+grandalf
